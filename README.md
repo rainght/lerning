@@ -4,6 +4,9 @@
 ### 事件响应
 - [你若触发，我就处理——浅谈JavaScript的事件响应](http://blog.jobbole.com/51889/)
 
+### ajax
+- [Ajax知识体系大梳理](http://louiszhai.github.io/2016/11/02/ajax/)
+
 ### nodejs
 - [Node.js专业中文社区](http://cnodejs.org/)
 - [从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)
